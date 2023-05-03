@@ -1,12 +1,23 @@
 {
-  "key": "32f1eb5605e9ae75676e1fdb",
+  "key": "07fed90475d44fde0fb98617",
   "addrs": [
     {
       "addr": {
-        "id": "23d170e63e755f5164c36e62ebf69ab8c511ac6f",
-        "ip": "164.92.191.45",
+        "id": "c6c2ffbffb0c0378dbb04a90a7ae33bc897a1234",
+        "ip": "46.101.197.51",
         "port": 26656
-      }
+      },
+      "src": {
+        "id": "c6c2ffbffb0c0378dbb04a90a7ae33bc897a1234",
+        "ip": "46.101.197.51",
+        "port": 26656
+      },
+      "buckets": [245],
+      "attempts": 0,
+      "bucket_type": 1,
+      "last_attempt": "2023-05-03T18:54:19.070287158Z",
+      "last_success": "0001-01-01T00:00:00Z",
+      "last_ban_time": "0001-01-01T00:00:00Z"
     }
   ]
 }
