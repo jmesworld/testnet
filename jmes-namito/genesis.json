@@ -1,6 +1,5 @@
 {
-  "genesis": {
-    "genesis_time": "2023-10-03T04:41:27.830224171Z",
+    "genesis_time": "2023-10-04T10:03:37.424712047Z",
     "chain_id": "jmes-namito",
     "initial_height": "1",
     "consensus_params": {
@@ -50,7 +49,7 @@
         "accounts": [
           {
             "@type": "/cosmos.auth.v1beta1.BaseAccount",
-            "address": "jmes1067phlhaj0erlsdp3vw09u53exs524efy4zx0m",
+            "address": "jmes1q642f02hqqzp0yy2wjqq3jczc0c3rls9j84ehu",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -67,7 +66,7 @@
         },
         "balances": [
           {
-            "address": "jmes1067phlhaj0erlsdp3vw09u53exs524efy4zx0m",
+            "address": "jmes1q642f02hqqzp0yy2wjqq3jczc0c3rls9j84ehu",
             "coins": []
           }
         ],
@@ -155,11 +154,11 @@
                     "max_change_rate": "0.010000000000000000"
                   },
                   "min_self_delegation": "1",
-                  "delegator_address": "jmes1067phlhaj0erlsdp3vw09u53exs524efy4zx0m",
-                  "validator_address": "jmesvaloper1067phlhaj0erlsdp3vw09u53exs524ef33uvry",
+                  "delegator_address": "jmes1q642f02hqqzp0yy2wjqq3jczc0c3rls9j84ehu",
+                  "validator_address": "jmesvaloper1q642f02hqqzp0yy2wjqq3jczc0c3rls98rtnmr",
                   "pubkey": {
                     "@type": "/cosmos.crypto.ed25519.PubKey",
-                    "key": "UI64YD+/W4D5+RZEtC4oyfRDwsGoQw+9E/tw2p/lSO8="
+                    "key": "hT1S6ZA4WGBDMCq5wEXuDyfP3K/yINER6sWrIurY3So="
                   },
                   "value": {
                     "denom": "ujmes",
@@ -167,7 +166,7 @@
                   }
                 }
               ],
-              "memo": "70bf22e2a103e3a00065a540b3963663a34dec25@51.38.52.37:26656",
+              "memo": "c0e1b97807331be6abf821d6197d72eae03d5f15@51.38.52.37:26656",
               "timeout_height": "0",
               "extension_options": [],
               "non_critical_extension_options": []
@@ -177,7 +176,7 @@
                 {
                   "public_key": {
                     "@type": "/cosmos.crypto.secp256k1.PubKey",
-                    "key": "Auo/Rpd0vl8iNU2QrPtZ55yLBtkpzCvII7lwNWFIT3FK"
+                    "key": "Aqod8IeQtUhUkzLs5BrMxoc5u005rvdfKNB7RnYTcOe2"
                   },
                   "mode_info": {
                     "single": {
@@ -196,7 +195,7 @@
               "tip": null
             },
             "signatures": [
-              "hZdi/ngkb9VSL7bZGFZnEG00ecU0SPwTXQ4btUSJwbkmCJv/mhdHj5LsAKh7YUN/nNqOeH/7faJwQqYb9/vI0w=="
+              "C1uf1xEiY/c7viKxdCQDVvYAEoyr03QE0yLYODNGd/IacUpoHaqzac4CdAgxfySTKiRnJhoIWqJEFkG9BeXIzQ=="
             ]
           }
         ]
@@ -317,7 +316,7 @@
               "block": "0",
               "app": "0"
             },
-            "chain_id": "",
+            "chain_id": "jmes-namito",
             "height": "0",
             "time": "0001-01-01T00:00:00Z",
             "last_block_id": {
@@ -421,5 +420,4 @@
         "sequences": []
       }
     }
-  }
 }
